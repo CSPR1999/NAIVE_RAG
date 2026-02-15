@@ -1,0 +1,13 @@
+# Naive RAG - Dependencies
+# ========================
+# Embeddings (runs locally, no API key needed)
+sentence-transformers>=2.2.0
+
+# LLM (OpenAI API - you need an API key)
+openai>=1.0.0
+
+# Vector math and similarity
+numpy>=1.24.0
+
+# Load environment variables from .env (optional)
+python-dotenv>=1.0.0

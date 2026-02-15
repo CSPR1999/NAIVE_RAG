@@ -1,0 +1,22 @@
+FAQ – Company Knowledge Base
+============================
+
+Returns and Refunds
+------------------
+We accept returns within 30 days of purchase. Items must be unused and in original packaging. To start a return, go to Your Orders on our website and click "Return this item". Refunds are processed within 5-7 business days after we receive the item.
+
+Shipping
+--------
+Standard shipping takes 3-5 business days. Express shipping (2 business days) is available at checkout. We ship to all US states. International shipping is available for select countries; delivery times vary by region.
+
+Contact Support
+---------------
+You can reach support by email at support@example.com or by phone at 1-800-EXAMPLE. Our team is available Monday–Friday, 9am–6pm EST. For faster help, use the live chat on our website.
+
+Account and Login
+-----------------
+If you forgot your password, click "Forgot password" on the login page. You will receive an email with a reset link. Make sure to check your spam folder. For account lockouts, contact support with your registered email.
+
+Product Warranty
+----------------
+All products come with a 1-year limited warranty covering manufacturing defects. The warranty does not cover normal wear, misuse, or damage from accidents. To claim warranty, email support@example.com with your order number and a description of the issue.
